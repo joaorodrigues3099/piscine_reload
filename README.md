@@ -70,7 +70,7 @@ For exercises involving shell scripts or other utilities, refer to the specific 
 
 ## Author
 
-**Your Name**  
+**João Rodrigues**  
 [GitHub Profile](https://github.com/joaorodrigues3099)
 
 Feel free to reach out if you have any questions or would like to collaborate.
