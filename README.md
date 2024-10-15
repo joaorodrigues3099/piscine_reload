@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 ---
 
->>>>>>> 4e892d11d4039ef557938ccf6c82f0e25d0352cd
 # Piscine Reloaded Portfolio
 
 ## Introduction
@@ -109,11 +106,7 @@ For exercises involving shell scripts or other utilities, instructions are provi
 ## Author
 
 **João Rodrigues**  
-<<<<<<< HEAD
-[joaorodrigues3099](https://github.com/joaorodrigues3099)  
-=======
-[joaorodrigues3099]([https://github.com/joaorodrigues3099])  
->>>>>>> 4e892d11d4039ef557938ccf6c82f0e25d0352cd
+[joaorodrigues3099]([https://github.com/joaorodrigues3099])
 Feel free to reach out if you have any questions or want to collaborate on future projects!
 
 ---
