@@ -1,9 +1,3 @@
-Sure! Here's a README template with some icons to give it a more visual and professional appeal. Icons can make your README more engaging and help highlight key sections. I'll use commonly supported GitHub icons (like emojis) since GitHub markdown doesn’t support custom icons or images easily without linking to external resources.
-
-Here’s the **README** with icons for each section:
-
----
-
 # 🚀 Piscine Reloaded Portfolio
 
 ## 🧑‍💻 Introduction
@@ -100,8 +94,4 @@ For exercises involving shell scripts or other utilities, instructions are provi
 
 **Your Name**  
 [joaorodrigues3099](https://github.com/joaorodrigues3099)  
-Feel free to reach out if you have any questions or want to collaborate on future projects!
-
----
-
-This README is now enhanced with icons (using emojis) to make it more visually appealing and organized. Feel free to adjust it further depending on your personal preferences!
+Feel free to reach out if you have any questions or want to collaborate on future projects!!
