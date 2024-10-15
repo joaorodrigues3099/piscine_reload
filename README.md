@@ -2,69 +2,45 @@
 
 ## Introduction
 
-**Piscine Reloaded** is a collection of C programming exercises aimed at reinforcing the programming skills I developed during the **42 School’s Piscine program**. This project helped me solidify my understanding of foundational programming concepts such as loops, recursion, pointers, and memory management.
-
-Each exercise focuses on a specific concept, allowing me to improve my coding style, problem-solving skills, and attention to detail.
+**Piscine Reloaded** is a series of C programming exercises designed to reinforce key programming concepts from the **42 School’s Piscine program**. This project provided an opportunity to revisit foundational topics such as loops, conditionals, pointers, and memory management, with a focus on hands-on coding practice.
 
 ---
 
-## Key Learnings
+## What I Learned
 
-### Exercise 00: Directory & File Permissions
-- Learned about Unix file permissions and how to manipulate them via shell commands. 
+Through these exercises, I strengthened my understanding of several core concepts in C programming:
 
-### Exercise 01: Outputting with Shell (`cat`)
-- Practiced creating a file that outputs specific content when accessed through shell commands, refining my skills in file handling.
+- **File and Directory Management**: Manipulated file permissions and automated file handling tasks through shell scripting.
+- **Control Structures**: Applied loops, conditionals, and recursion in various problem-solving contexts.
+- **Pointer Operations**: Enhanced my skills with pointers, including memory manipulation and function calls using pointer arguments.
+- **Dynamic Memory Management**: Worked with `malloc` and other memory functions to manage dynamic data structures.
+- **Automation**: Created `Makefiles` to automate the compilation process and manage project builds efficiently.
+- **File I/O**: Gained experience in handling file input/output operations, including error handling.
 
-### Exercise 02: Automating File Cleanup
-- Wrote a shell script to automate file cleanup, which improved my understanding of shell scripting and file system management.
-
-### Exercise 06: Printing the Alphabet
-- Reinforced basic loop structures and character handling in C by printing the alphabet.
-
-### Exercise 08: Conditional Logic
-- Implemented logic to determine whether an integer is positive or negative, honing my use of conditionals in C.
-
-### Exercise 10: Pointer Manipulation
-- Developed a deeper understanding of pointers and how to manipulate them by swapping two integers.
-
-### Exercise 12 & 13: Iterative and Recursive Factorial
-- Explored both iterative and recursive approaches to solving problems, gaining insight into their performance differences.
-
-### Exercise 16: String Length Function (`strlen`)
-- Recreated the `strlen` function, which helped improve my understanding of string handling and memory representation in C.
-
-### Exercise 20: Dynamic Memory Allocation
-- Worked with dynamic memory allocation (`malloc`) to recreate the `strdup` function, enhancing my ability to manage memory in low-level programming.
-
-### Exercise 24: Creating a `Makefile`
-- Automated the compilation process using a `Makefile`, learning how to manage project builds efficiently.
-
-### Exercise 27: File I/O Operations
-- Developed a deeper understanding of file input/output by implementing a function to display the content of a file.
+These exercises helped me improve not only my coding abilities but also my problem-solving skills, attention to detail, and adherence to coding standards.
 
 ---
 
-## Technical Skills Developed
+## Technical Skills
 
-- **C Programming**: Enhanced skills in core concepts like pointers, memory management, and recursion.
-- **Shell Scripting**: Improved efficiency in writing scripts for automating file handling and task execution.
-- **Problem Solving**: Gained experience in solving algorithmic challenges through both iterative and recursive approaches.
-- **Automation**: Learned to streamline the build process with `Makefile` and automate routine tasks in a Unix environment.
-- **File I/O**: Strengthened the ability to manage file input/output, including error handling and edge cases.
+- **C Programming**: Solidified understanding of core C programming principles.
+- **Shell Scripting**: Automated tasks using Unix shell scripts.
+- **Memory Management**: Managed memory dynamically, avoiding memory leaks.
+- **Project Automation**: Utilized `Makefiles` to streamline compilation and project management.
+- **File Handling**: Developed techniques for efficient file input/output handling.
 
 ---
 
 ## How to Run
 
-Clone the repository and navigate to the relevant exercise directory. Compile and run C programs as follows:
+To run the exercises, clone the repository and navigate to the relevant directory. Compile and run the C programs with:
 
 ```bash
 gcc -Wall -Wextra -Werror <source_file.c> -o <output_file>
 ./<output_file>
 ```
 
-For exercises involving shell scripts or other utilities, refer to the specific instructions in each folder.
+For shell scripts and other tasks, follow the specific instructions in each exercise folder.
 
 ---
 
@@ -73,4 +49,4 @@ For exercises involving shell scripts or other utilities, refer to the specific 
 **João Rodrigues**  
 [GitHub Profile](https://github.com/joaorodrigues3099)
 
-Feel free to reach out if you have any questions or would like to collaborate.
+Feel free to contact me if you have any questions or want to discuss future projects.
