@@ -39,6 +39,6 @@ For shell scripts and other tasks, follow the specific instructions in each exer
 ## Author
 
 **João Rodrigues**  
-[GitHub Profile](https://github.com/joaorodrigues3099)
+[Github: joaorodrigues3099](https://github.com/joaorodrigues3099)
 
 Feel free to contact me if you have any questions or want to discuss future projects.
