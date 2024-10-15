@@ -4,8 +4,6 @@
 
 **Piscine Reloaded** is a series of C programming exercises designed to reinforce key programming concepts from the **42 School’s Piscine program**. This project provided an opportunity to revisit foundational topics such as loops, conditionals, pointers, and memory management, with a focus on hands-on coding practice.
 
----
-
 ## What I Learned
 
 Through these exercises, I strengthened my understanding of several core concepts in C programming:
@@ -19,8 +17,6 @@ Through these exercises, I strengthened my understanding of several core concept
 
 These exercises helped me improve not only my coding abilities but also my problem-solving skills, attention to detail, and adherence to coding standards.
 
----
-
 ## Technical Skills
 
 - **C Programming**: Solidified understanding of core C programming principles.
@@ -28,8 +24,6 @@ These exercises helped me improve not only my coding abilities but also my probl
 - **Memory Management**: Managed memory dynamically, avoiding memory leaks.
 - **Project Automation**: Utilized `Makefiles` to streamline compilation and project management.
 - **File Handling**: Developed techniques for efficient file input/output handling.
-
----
 
 ## How to Run
 
@@ -41,8 +35,6 @@ gcc -Wall -Wextra -Werror <source_file.c> -o <output_file>
 ```
 
 For shell scripts and other tasks, follow the specific instructions in each exercise folder.
-
----
 
 ## Author
 
